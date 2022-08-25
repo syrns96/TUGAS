@@ -26,7 +26,7 @@ int main()
     detik = (tempuh - jam * 3600) - (menit*60);
     
  
-    cout<<"Waktu yang dutempuh selama"<<endl;
+    cout<<"Waktu yang ditempuh selama"<<endl;
     cout<<jam <<"jam"<<endl;
     cout<<menit <<"menit"<<endl;
     cout<<detik <<"detik"<<endl;
